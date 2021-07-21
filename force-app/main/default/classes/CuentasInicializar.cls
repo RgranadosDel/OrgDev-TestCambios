@@ -14,4 +14,9 @@ public class CuentasInicializar {
         }
         Return res;
     }
+
+    public static List<Account> InsertAccounts(){
+        List<Account> res = new List<Account>();
+        return res;
+    }
 }
